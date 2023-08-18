@@ -171,7 +171,6 @@ nav img{
 #hero {
 	background-image: url(memoji.png);
 	background-position: right;
-	position: relative;
 	background-repeat: no-repeat;
 }
 #hero::after {
@@ -239,7 +238,6 @@ nav img{
 	flex-direction: column-reverse;
 	text-align: center;
 	margin: 0 auto;
-	
 	justify-content: center;
 	align-items: center;
 }
