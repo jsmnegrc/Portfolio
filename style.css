@@ -49,7 +49,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid white;
+	border: 2px solid black;
 	font-size: 5rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -186,8 +186,7 @@ nav img{
 }
 #hero .hero {
 	max-width: 1200px;
-	margin: 0 auto;
-	padding: 0 80px;
+	margin-left: 80px;
 	justify-content: flex-start;
 }
 #hero h1 {
